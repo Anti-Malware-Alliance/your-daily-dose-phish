@@ -1,4 +1,4 @@
-# your-daily-dose-phish
+# Your Daily Dose of Phish
 Tool to Harvest Fresh Email Phishing Samples for Security Research.
 
 # The Problem
